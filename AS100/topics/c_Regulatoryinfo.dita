@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ida3914f46-92df-4620-a157-490004d39ad3">
+ <title>FCC and Industry Canada Statements </title>
+ <conbody>
+  <p>Contains FCC ID: WYV-EN110 </p>
+  <p>Contains IC: 8231A-EN110</p>
+  <p>This equipment has been tested and found to comply with the limits for a Class B digital
+   device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable
+   protection against harmful interference in a residential installation. This equipment generates,
+   uses and can radiate radio frequency energy and, if not installed and used in accordance with the
+   instructions, may cause harmful interference to radio communications. However, there is no
+   guarantee that interference will not occur in a particular installation. If this equipment does
+   cause harmful interference to radio or television reception, which can be determined by turning
+   the equipment off and on, the user is encouraged to try to correct the interference by one of the
+   following measures: </p>
+  <ul id="id9d6bd241-140a-46f3-8c76-75e7388a26cc">
+   <li>Reorient or relocate the receiving antenna.</li>
+   <li>Increase the separation between the equipment and receiver. </li>
+   <li>Connect the equipment into an outlet on a circuit different from that to which the receiver
+    is connected. </li>
+   <li>Consult the dealer or an experienced radio/TV technician for help.</li>
+  </ul>
+  <p> This device complies with Part 15 of the FCC Rules and with RSS-210 of Industry Canada.
+   Operation is subject to the following two conditions: (1) This device may not cause harmful
+   interference, and (2) This device must accept any interference received, including interference
+   that may cause undesired operation. </p>
+  <p>Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux appareils radio
+   exempts de licence.L’exploitation est autorisée aux deux conditions suivantes: 1. l’appareil ne
+   doit pas produire de brouillage, et 2. l’utilisateur de l’appareil doit accepter tout brouillage
+   radioélectrique subi, même si le brouillage est susceptible d’en compromettre le fonctionnement. </p>
+  <p>The term “IC:” before the equipment certification number only signifies that the Industry
+   Canada technical specifications were met. </p>
+  <p>Le terme “IC” devant le numéro de certification signifie seulement que les spécifications
+   techniques Industrie Canada ont été respectées. </p>
+  <p>FCC Caution: Any changes or modifications not expressly approved by the party responsible for
+   compliance could void the user’s authority to operate this equipment. IEEE 802.15.4 operation of
+   this product in U.S.A. and Canada is limited to channels 11-25. Outside of U.S.A. and Canada
+   allows use of channels 11-26. </p>
+  <p><image href="../images/approvals.svg" id="id9838e5b7-7789-4fa9-a8d5-d98d377960d6"/></p>
+ </conbody>
+</concept>

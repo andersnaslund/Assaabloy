@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="id458d8e1b-ab57-4102-85ba-1837d638cf23">
+    <title>AS100 Installation</title>
+    <taskbody>
+        <context><image href="../images/Overview.svg" id="idc89aeca5-52cb-440d-9dda-f3475addd65a"
+            /></context>
+        <steps id="id47a41d34-dc4c-463a-8b66-28bb60db9a6e">
+            <step>
+                <cmd/>
+                <stepxmp><image href="../images/step1.svg"
+                        id="id185bd8de-374a-4905-b7e5-367f6895d599"/></stepxmp>
+            </step>
+            <step>
+                <cmd/>
+                <stepxmp><image href="../images/step2.svg"
+                        id="id76605e5b-8b2e-4e39-917b-277d0d3cce31"/></stepxmp>
+            </step>
+            <step>
+                <cmd/>
+                <stepxmp><image href="../images/step3.svg"
+                        id="ida024abdf-82d9-4ae4-bc45-71850c9e8b7a"/></stepxmp>
+            </step>
+            <step>
+                <cmd/>
+                <stepxmp><image href="../images/step4.svg"
+                        id="id7518015d-ce80-4d54-9834-e9bf5c872715"/></stepxmp>
+                <stepxmp><image href="../images/step4option.svg"
+                        id="id31fd5515-0e09-42b1-bb89-2f315a16fc40"/></stepxmp>
+            </step>
+            <step>
+                <cmd/>
+                <stepxmp><image href="../images/step5.svg"
+                        id="id74980405-8b2c-434d-b309-d6ebe2104fbf"/></stepxmp>
+            </step>
+        </steps>
+    </taskbody>
+</task>
